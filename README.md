@@ -1,6 +1,6 @@
 # Hi there 👋, I'm James Gabriel Santos  
 
-💻 **Computer Science Student** | 📚 Learning programming & accounting basics  ✨
+💻 **Computer Science Student** ✨
 
 <!--
 **JamrsGab0629/JamrsGab0629** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
