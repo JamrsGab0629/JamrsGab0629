@@ -1,10 +1,11 @@
-# Hi there 👋, I'm James Gabriel Santos  
+![proggif](https://github.com/user-attachments/assets/1f9b5929-7157-4a7c-abd9-99302eae432e)# Hi there 👋, I'm James Gabriel Santos  
 
 💻 **Computer Science Student** ✨
 
 <!--
 **JamrsGab0629/JamrsGab0629** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![proggif](https://github.com/user-attachments/assets/c3d42f40-89b6-4832-8719-79254be241d2)
 
 -->
 ### An aspiring backend developer
