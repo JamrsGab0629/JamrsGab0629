@@ -7,10 +7,6 @@
 
 ### An aspiring backend developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JamrsGab0629&label=Profile views&color=0e75b6&style=flat" alt="JamrsGab0629" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JamrsGab0629" alt="JamrsGab0629" /></a> </p>
-
 - 🔭 I'm currently working on **A banking system**
 
 - 🌱 I'm currently learning **Java**
