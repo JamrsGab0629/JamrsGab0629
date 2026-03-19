@@ -8,6 +8,8 @@
 ### An aspiring backend developer
 
 - 🔭 I'm currently working on **A banking system**
+- ![200w](https://github.com/user-attachments/assets/38773d7e-c825-4fe3-98b7-2e4076b409b8)
+
 
 - 🌱 I'm currently learning **Java**
 
