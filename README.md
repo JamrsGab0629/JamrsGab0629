@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/38773d7e-c825-4fe3-98b7-2e4076b409b8" width="300" />
+</p>
+
 <h1 align="left">
   <img src="https://github.com/user-attachments/assets/1f9b5929-7157-4a7c-abd9-99302eae432e" width="200" align="right" />
   Hi there 👋, I'm James Gabriel Santos
@@ -8,8 +12,6 @@
 ### An aspiring backend developer
 
 - 🔭 I'm currently working on **A banking system**
-- ![200w](https://github.com/user-attachments/assets/38773d7e-c825-4fe3-98b7-2e4076b409b8)
-
 
 - 🌱 I'm currently learning **Java**
 
@@ -20,6 +22,7 @@
 - ⚡ Fun fact **I know how to play some instruments like guitar and bass guitar**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://github.com/JamrsGab0629" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="JamrsGab0629" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/jamesgabriel.santos.923" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/jamesgabriel.santos.923" height="30" width="40" /></a>
