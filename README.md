@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/38773d7e-c825-4fe3-98b7-2e4076b409b8" width="300" />
+  <img src="https://github.com/user-attachments/assets/6e66c3e7-0f5f-4ca8-bf3a-856bc6bf34d8" width="100%" />
 </p>
 
 <h1 align="left">
@@ -22,6 +22,7 @@
 - ⚡ Fun fact **I know how to play some instruments like guitar and bass guitar**
 
 <h3 align="left">Connect with me:</h3>
+
 
 <p align="left">
 <a href="https://github.com/JamrsGab0629" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="JamrsGab0629" height="30" width="40" /></a>
