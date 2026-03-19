@@ -1,27 +1,25 @@
-![proggif](https://github.com/user-attachments/assets/1f9b5929-7157-4a7c-abd9-99302eae432e)# Hi there 👋, I'm James Gabriel Santos  
+<h1 align="left">
+  <img src="https://github.com/user-attachments/assets/1f9b5929-7157-4a7c-abd9-99302eae432e" width="200" align="right" />
+  Hi there 👋, I'm James Gabriel Santos
+</h1>
 
 💻 **Computer Science Student** ✨
 
-<!--
-**JamrsGab0629/JamrsGab0629** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-![proggif](https://github.com/user-attachments/assets/c3d42f40-89b6-4832-8719-79254be241d2)
-
--->
 ### An aspiring backend developer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JamrsGab0629&label=Profile views&color=0e75b6&style=flat" alt="JamrsGab0629" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JamrsGab0629" alt="JamrsGab0629" /></a> </p>
+
 - 🔭 I'm currently working on **A banking system**
 
 - 🌱 I'm currently learning **Java**
 
-- 💬 Ask me about **Java,Dsa,C**
+- 💬 Ask me about **Java, Dsa, C**
 
 - 📫 How to reach me **jamesgabrielsantos0629@gmail.com**
 
-- ⚡ Fun fact **I know how to play saome instrument like guitar and bass guitar**
+- ⚡ Fun fact **I know how to play some instruments like guitar and bass guitar**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,8 +35,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JamrsGab0629&show_icons=true&locale=en" alt="JamrsGab0629" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JamrsGab0629&" alt="JamrsGab0629" /></p>
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
