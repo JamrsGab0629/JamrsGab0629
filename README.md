@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="image.png" width="70%" alt="ASCII Avatar">
+  <img src="image2.png" width="70%" alt="ASCII Avatar">
 </p>
 
       Full Stack • Computer Science • Open Source
