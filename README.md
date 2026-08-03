@@ -1,6 +1,8 @@
 ![Banner](image.png)
 
-
+<p align="center">
+  <img src="image.png" width="70%" alt="ASCII Avatar">
+</p>
 
       Full Stack • Computer Science • Open Source
 <h3 align="left">Languages and Tools:</h3>
