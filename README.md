@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="image.png" width="100%" alt="ASCII Avatar">
+</p>
+
 ```text
 ┌──────────────────────────────────────────────────────────────────────┐
 │ > whoami                                                             │
