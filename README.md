@@ -133,6 +133,15 @@
 </table>
 
 ```text
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🗺️ **Mini GPS Navigation** | Interactive navigation system that computes the shortest route using **Dijkstra's Algorithm** and **Breadth-First Search (BFS)** with real-time path visualization and pixel-to-meter distance conversion. | **Java • JavaFX • Dijkstra • BFS** |
+| 🏦 **Banking System** | Desktop banking application featuring secure user authentication, account management, transaction history, search & sorting algorithms, SHA-256 password hashing, backup system, and modular software architecture. | **Java • JavaFX • MySQL** |
+| 🌐 **Socialife** | Full-stack social media platform featuring secure authentication, user profiles, posts, comments, likes, image uploads, and a RESTful API built with a responsive frontend and backend architecture. | **HTML • CSS • JavaScript • Node.js • Express • PostgreSQL** |
+| 🐱 **Lily Expense Tracker** | Intelligent expense tracking application powered by a custom fuzzy logic engine that evaluates financial health and provides personalized recommendations through a virtual cat assistant. | **HTML • CSS • JavaScript • Fuzzy Logic** |
+| 🤖 **GitHub Review Bot** | AI-powered GitHub automation tool that analyzes commits, generates summaries, provides code review insights, and streamlines the development workflow. | **Node.js • GitHub Actions • AI Automation** |
 ┌──────────────────────────────────────────────────────────────────────┐
 │ > currently                                                          │
 │                                                                      │
