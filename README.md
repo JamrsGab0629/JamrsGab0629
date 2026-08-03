@@ -1,7 +1,19 @@
 
 
 <p align="center">
-  <img src="image.png" width="70%" alt="ASCII Avatar">
+  <img src="image.png" width="50%" alt="ASCII Avatar"
+>+---------------------------+--------------------------------------+
+|                           | JamrsGab0629                         |
+|                           | Computer Science Student             |
+|                           |--------------------------------------|
+|       ASCII PORTRAIT      | Languages : Java • JS • TS • Python |
+|                           | Backend   : Node • Express           |
+|                           | Frontend  : HTML • CSS • Angular     |
+|                           | Database  : MySQL • PostgreSQL       |
+|                           | Tools     : Git • Bash • Figma       |
+|                           |--------------------------------------|
+|                           | Building • Learning • Open Source    |
++---------------------------+--------------------------------------+
 </p>
 
       Full Stack • Computer Science • Open Source
