@@ -1,4 +1,4 @@
-![Banner](image.png)
+
 
 <p align="center">
   <img src="image.png" width="70%" alt="ASCII Avatar">
