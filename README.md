@@ -1,48 +1,49 @@
 
-
 <table>
-  <tr>
-    <td width="40%" align="center">
-      <img src="image.png" width="320" alt="ASCII Portrait">
-    </td>
+<tr>
 
-    <td width="60%">
+<td width="38%" align="center" valign="top">
+  <img src="./assets/image.png" width="300" alt="ASCII Portrait">
+</td>
 
-# 👋 JamrsGab0629
+<td width="62%" valign="top">
 
-**Computer Science Student**
+<h2>👋 JamrsGab0629</h2>
 
-### 💻 Tech Stack
+<p><b>Computer Science Student</b></p>
 
-**Languages**
-- Java
-- JavaScript
-- TypeScript
-- Python
-- C
+<h3>💻 Tech Stack</h3>
 
-**Frontend**
-- HTML
-- CSS
-- Angular
+<b>Languages</b><br>
+Java • JavaScript • TypeScript • Python • C
 
-**Backend**
-- Node.js
-- Express
+<br><br>
 
-**Database**
-- MySQL
-- PostgreSQL
+<b>Frontend</b><br>
+HTML • CSS • Angular
 
-**Tools**
-- Git
-- Bash
-- Figma
+<br><br>
 
-> Building • Learning • Open Source
+<b>Backend</b><br>
+Node.js • Express
+
+<br><br>
+
+<b>Database</b><br>
+MySQL • PostgreSQL
+
+<br><br>
+
+<b>Tools</b><br>
+Git • Bash • Figma
+
+<br><br>
+
+<i>🚀 Building • Learning • Open Source</i>
 
 </td>
-  </tr>
+
+</tr>
 </table>
       Full Stack • Computer Science • Open Source
 <h3 align="left">Languages and Tools:</h3>
