@@ -1,4 +1,4 @@
-![Banner](ascii-art.png)
+![Banner](image.png)
 
 
 
