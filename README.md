@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm James Gabriel Santos</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Backend developer from the Philippines</h3>
 
 - 🔭 I’m currently working on **Social media app and an ecommerce**
 - 🌱 I’m currently learning **Express.js, JavaScript, PostgreSQL**
@@ -11,17 +11,21 @@
 
 ## 🚀 Projects
 
-- **Bank Management System**
-  - A feature-rich desktop banking application featuring a graphical user interface, secure transactions, and custom data structures/algorithms.
-  - *Tech Stack:* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="20" height="20" alt="Java"/> **Java**
+- **Java Bank System**
+  - A desktop banking application featuring a graphical user interface and secure transaction management.
+  - *Tech Stack:* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="20" height="20" alt="Java"/> **Java (JavaFX)**
 
-- **Space-Themed Portfolio Website**
-  - A personal biography and portfolio website featuring a custom space-themed "Black Hole" background effect and responsive design.
-  - *Tech Stack:* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20" height="20" alt="JavaScript"/> **JavaScript**, HTML5, CSS3
+- **Subdivision Mini GPS**
+  - A routing and pathfinding application modeling the subdivision map to calculate optimal paths using graph traversal algorithms.
+  - *Tech Stack:* **BFS & Dijkstra Algorithms**
 
-- **Student Management System**
-  - A backend utility built to practice Object-Oriented Programming principles, modular architecture, and file I/O operations.
-  - *Tech Stack:* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="20" height="20" alt="Node.js"/> **Node.js**, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="20" height="20" alt="Express"/> **Express.js**
+- **Lily Financial Health Tracker**
+  - A comprehensive web application designed to track and manage personal financial health, income, and expenses.
+  - *Tech Stack:* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="20" height="20" alt="HTML5"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="20" height="20" alt="CSS3"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20" height="20" alt="JavaScript"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="20" height="20" alt="Node.js"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="20" height="20" alt="PostgreSQL"/> **HTML, CSS, JavaScript, Node.js, PostgreSQL, Supabase**
+
+- **GitHub Automation**
+  - An automated repository workflow tool integrated with artificial intelligence to streamline tasks and manage repository processes.
+  - *Tech Stack:* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20" height="20" alt="Python"/> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="20" height="20" alt="GitHub"/> **Python, GitHub Workflows, Gemini AI API**
 
 ---
 
